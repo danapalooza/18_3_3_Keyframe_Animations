@@ -59,6 +59,9 @@ transform: rotate(-180deg);
   5% {
     width: 97%;
   }
+  10% {
+    width: 99%;
+  }
   to {
     width: 100%;
   }
